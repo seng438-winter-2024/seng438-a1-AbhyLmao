@@ -63,6 +63,17 @@ Exploratory testing and manual functional testing are both crucial components of
 
 In conclusion, our testing approach integrated both exploratory and manual functional testing to leverage their respective strengths and mitigate their individual limitations. 
 
+The jira scrum 1-6 files are under media/jira
+
+Jira Screenshot
+![Jira Screenshot](media/Jira/jira.png)
+
+The Excel file is under media/excel
+
+Excel screenshot
+![Excel Screenshot](media/excel/excel1.png)
+![Excel Screenshot](media/excel/excel2.png)
+
 
 # Notes and discussion of the peer reviews of defect reports
 
@@ -80,4 +91,6 @@ For this lab, we gained some important experience with the process of manual fun
 
 # Comments/feedback on the lab and lab document itself
 
+This lab was really helpful in getting us familiar with the testing process and some of the industry standard software used in this field. We, as a group learned a lot about pair testing, Jira, The different types of test suites.
 
+The difficulty of this lab was on a perfect level, not everything was laid out but we weren't completely in the dark. The lab document was extreamly helpful and gave us a platform from which to start.
