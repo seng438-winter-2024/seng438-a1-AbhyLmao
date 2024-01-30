@@ -6,8 +6,8 @@
 |-----------------|
 | Eshi Akalumhe               |   
 | Emiko Emiko              |   
-| Abhyudai Singh  -  30157580           |   
-| Marco Truong     -  30090441         |   
+| Abhyudai Singh         |   
+| Marco Truong        |   
 
 
 **Table of Contents**
