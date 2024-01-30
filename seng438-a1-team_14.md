@@ -2,12 +2,12 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group: Group 14      |
+| Group: Group 14             |
 |-----------------|
 | Eshi Akalumhe               |   
 | Emiko Emiko              |   
-| Abhyudai Singh               |   
-| Marco Truong                |   
+| Abhyudai Singh  -  30157580           |   
+| Marco Truong     -  30090441         |   
 
 
 **Table of Contents**
